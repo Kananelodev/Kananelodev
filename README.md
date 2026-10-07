@@ -36,7 +36,6 @@ class Kananelo:
 ## 🏆 Hackathons
 
 - **SMU Health Hackathon 2026** — Top 5 finalist with NexaCare (*Insulin Express*: chronic-medication fulfilment)
-- **Momentum × Monkey & River 2026 Finals** — backend/gateway lead, Team ByteBinders (FastAPI, RAG pipeline, compliance layer)
 - **MoMo Mini App Hackathon 2026** — digital burial society (umgalelo) on MoMo APIs: FastAPI, Postgres, Docker, CI
 
 ## 🧰 Toolbox
